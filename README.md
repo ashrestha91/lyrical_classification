@@ -7,4 +7,5 @@ Current goals
 - See what tfidf + logistic regression gets us, trying to classify songs by artist
 - Better features!
 - Through classification or through clustering, lets see if we can arrive at subgenres
+- Can our classifier tell us which verses were by which artist, in super-group mashups?
 - Visualize the data

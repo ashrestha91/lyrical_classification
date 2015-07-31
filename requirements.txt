@@ -1,0 +1,4 @@
+beautifulsoup4==4.4.0
+numpy==1.9.2
+scikit-learn==0.16.1
+scipy==0.13.3
